@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sviridkin;Aleksey;;;
+FN:Aleksey Sviridkin
+TITLE:SRE
+EMAIL;TYPE=INTERNET,PREF:f@lex.la
+TEL;TYPE=CELL,VOICE:+79032109132
+ADR;TYPE=HOME:;;;Tbilisi;;;Georgia
+URL:https://me.lex.la/
+X-SOCIALPROFILE;TYPE=telegram:https://t.me/lexfrei
+X-SOCIALPROFILE;TYPE=github:https://github.com/lexfrei/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/lexfrei/
+KEY;TYPE=PGP;VALUE=uri:https://me.lex.la/pub.asc
+REV:2026-09-04T00:00:00Z
+END:VCARD

@@ -56,6 +56,15 @@
       color: blue;
     }
 
+    .vcard {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 5px 12px;
+      border: 1px solid blue;
+      border-radius: 3px;
+      text-decoration: none;
+    }
+
     footer {
       font-size: 0.8em;
       opacity: 0.9;
@@ -79,6 +88,10 @@
       <li><a href="tel:+79032109132">Call me</a></li>
       <li><a href="mailto:f@lex.la">Mail me</a></li>
     </ul>
+    <!-- no download attribute on purpose: it forces a save-to-Downloads on
+         mobile, where the wanted behaviour is handing the file straight to
+         the contacts app -->
+    <a class="vcard" href="contact.vcf" type="text/vcard">Add to contacts</a>
   </section>
   <section>
     <h4>Socialize me</h4>

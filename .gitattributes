@@ -1,0 +1,2 @@
+# RFC 6350 requires CRLF line endings; keep the bytes as authored
+*.vcf -text
